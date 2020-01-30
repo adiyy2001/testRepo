@@ -74,7 +74,7 @@ function solution(A) {
         }
     })
 }
-solution(A);
+solution(A)
 
 
 
