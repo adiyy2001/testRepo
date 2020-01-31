@@ -74,7 +74,7 @@ function solution(A) {
         }
     })
 }
-solution(A);
-console.log("omg");
+// solution(A);
+// console.log("omg");
 
 
